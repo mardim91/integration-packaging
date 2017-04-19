@@ -116,8 +116,8 @@ builds:
     version_minor: "0"
     version_patch: "0"
     pkg_version: "1"
-    codename: Carbon-RC0
-    download_url: "https://nexus.opendaylight.org/content/repositories/opendaylight.snapshot/org/opendaylight/integration/distribution-karaf/0.6.0-SNAPSHOT/distribution-karaf-0.6.0-20170413.041952-4878.tar.gz"
+    codename: SNAPSHOT
+    download_url: "https://nexus.opendaylight.org/content/repositories/opendaylight.snapshot/org/opendaylight/integration/distribution-karaf/0.7.0-SNAPSHOT/distribution-karaf-0.7.0-20170419.064317-77.tar.gz"
     sysd_commit: 07f7c83b0ef46ad3809e5be03e09a77fe554eeae
     java_version: "8"
     changelog_date: "Wed, 23 Dec 2016"
