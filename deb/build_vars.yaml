@@ -112,12 +112,12 @@ builds:
     changelog_time: "12:02:00 +0200"
     changelog_name: "George Paraskevopoulos"
     changelog_email: "geopar@intracom-telecom.com"
-  - version_major: "7"
+  - version_major: "6"
     version_minor: "0"
     version_patch: "0"
     pkg_version: "1"
     codename: SNAPSHOT
-    download_url: "https://nexus.opendaylight.org/content/repositories/opendaylight.snapshot/org/opendaylight/integration/distribution-karaf/0.7.0-SNAPSHOT/distribution-karaf-0.7.0-20170419.064317-77.tar.gz"
+    download_url: "https://nexus.opendaylight.org/content/repositories/opendaylight.snapshot/org/opendaylight/integration/distribution-karaf/0.6.0-SNAPSHOT/distribution-karaf-0.6.0-20170419.084843-4946.tar.gz"
     sysd_commit: 07f7c83b0ef46ad3809e5be03e09a77fe554eeae
     java_version: "8"
     changelog_date: "Wed, 23 Dec 2016"
